@@ -38,9 +38,9 @@
 .título-escola {
     
 }
-    .escola-texto-um{
-        justify-items: baseline;
+    .escola-div-conteudo{
+        width: 35%;
     }
-    .escola-texto-dois{
-        justify-items: baseline;
+    .escola-titulo{
+        padding: 24px 0;
     }
