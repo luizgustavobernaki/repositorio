@@ -38,3 +38,9 @@
 .título-escola {
     
 }
+    .escola-texto-um{
+        justify-items: baseline;
+    }
+    .escola-texto-dois{
+        justify-items: baseline;
+    }
