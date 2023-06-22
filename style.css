@@ -50,6 +50,6 @@ body{
     .estudante-icone{
         width: 24px;
 
-    .estudante-div{
-        text-align: center;
+    .estudante-nome{
+        align-items: center;
     }
