@@ -53,7 +53,7 @@ body{
     .estudante{
         align-items: center;
         text-align: center;
-        display: grid;
+        display: flexbox;
     }
     .estudante-div{
         text-align: center;
