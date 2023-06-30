@@ -50,14 +50,14 @@ body{
     .estudante-icone{
         width: 24px;
 
-   
-    .estudante-div{
-        text-align: center;
-        justify-items: center;
     }
 
     .estudante {
         align-items: center;
         text-align: center;
         display: grid;
+    }
+    .estudante-div{
+        text-align: center;
+        justify-items: center;
     }
