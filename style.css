@@ -57,4 +57,5 @@ body{
     }
     .estudante-div{
         text-align: center;
+        justify-items: center;
     }
